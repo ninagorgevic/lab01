@@ -1,0 +1,11 @@
+commit 6775d5e9b009800d0f872e54ac59cbec4a47334e (HEAD -> logging, origin/master, master)
+Author: Nina Gjorgjevikj <gjorgjevikj.nina@students.finki.ukim.mk>
+Date:   Fri Mar 16 15:59:04 2018 +0100
+
+    Initial commit
+
+commit 91e6c7e6e3a01db79f1b59e4e66b87e3788fcceb
+Author: unknown <gjorgjevikj.nina@students.finki.ukim.mk>
+Date:   Fri Mar 16 15:51:08 2018 +0100
+
+    Initial commit
