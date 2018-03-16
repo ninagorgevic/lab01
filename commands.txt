@@ -1,0 +1,26 @@
+2. git init lab1
+$ git config --global user.name "Nina Gjorgjevikj"
+	git config --global user.name 
+$ git config --global user.email "gjorgjevikj.nina@students.finki.ukim.mk"
+	git config --global user.email
+3. notepad l1.txt
+4. vneseni se podatoci so indeks, ime i prezime
+5. git add --all
+	git commit -m "Initial commit"
+6. Dodadena nasoka PET vo datotekata l1.txt
+7. git add --all
+	git commit -m "modify l1.txt"
+8. Kreirano repo lab01 na GitHub account
+9. $ git remote add origin https://github.com/ninagorgevic/lab01.git
+10. $ git push -u origin master
+11. napravena promena vo fajlot l1.txt i so git reset --hard se vraka na posledniot commit
+12. git checkout -b logging
+13. notepad log.txt i zapisan e izlezot od git log
+14. git add --all
+	git commit -m "Vtor commit log.txt"
+	git push origin logging
+15. git checkout master
+	git merge logging
+	git push origin master
+16. git checkout -b allcomand
+17. notepad commands.txt vo koj se zapishani site komandi na ovaa vezba
